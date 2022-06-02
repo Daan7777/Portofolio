@@ -1,5 +1,6 @@
 module.exports = {
-  content: [],
+  content: [
+    "/index.php{html,js,php}"],
   theme: {
     extend: {},
   },
